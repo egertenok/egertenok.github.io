@@ -35,7 +35,7 @@ body {
   display: block;
   width: 264px;
   height: 30px;
-  margin: 80px auto 0;
+  margin: 60px auto 0;
   border: 2px solid rgb(255, 0, 0);
   border-radius: 94px;
   background-color: rgba(222, 222, 222, 0);
@@ -84,7 +84,7 @@ body {
 
 .container-13 {
   width: 80%;
-  height: 1152px;
+  height: 1172px;
   margin: 0 auto;
 }
 
@@ -202,8 +202,6 @@ body {
 }
 
 .element-8 {
-  position: relative;
-  z-index: 48;
   height: 393px;
   background-image: url('../images/8.jpg');
   background-color: rgba(222, 222, 222, 0);
@@ -351,16 +349,6 @@ body {
   color: rgb(255, 255, 255);
 }
 
-.text-29 {
-  float: left;
-  clear: both;
-  width: 488px;
-  min-height: 141px;
-  margin-left: 6.49833%;
-  font-size: 1em;
-  color: rgb(255, 254, 254);
-}
-
 .text-3 {
   width: 64.0129319054%;
   min-height: 147px;
@@ -400,14 +388,13 @@ body {
   color: rgb(255, 255, 255);
 }
 
+.text-29,
 .text-32 {
-  position: relative;
   float: left;
   clear: both;
-  z-index: 49;
   width: 488px;
   min-height: 141px;
-  margin: -84px 0 0 6.4257799999%;
+  margin-left: 6.49833%;
   font-size: 1em;
   color: rgb(255, 254, 254);
 }
